@@ -1,10 +1,10 @@
 
 function Tours (props) {
     return (
-        <>
-        <p>{props.name}</p>
+        <div>
+        <h2>{props.name}</h2>
         <img src={props.image}  />  
-        </>
+        </div>
         )
 
 }

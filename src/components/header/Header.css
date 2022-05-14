@@ -1,0 +1,22 @@
+body {
+    background-color: #1b2b4b;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+
+  .header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(190, 216, 42);
+    background-color: #737c7b;
+    height: 100px;
+    margin-bottom: 50px;
+  }
+  
+  #navBar:hover {
+    background-color: white;
+    /* display: flex; */
+    }
